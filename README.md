@@ -72,3 +72,88 @@
     difficulty of your task.
   </p>
 </blockquote>
+
+<h3>GPT-6 Sol</h3>
+
+<p>
+  GPT-6 Sol should probably be your <strong>main model</strong> for coding.
+  It's a good balance between speed, reasoning, and actually getting work done
+  without burning through usage for no reason.
+</p>
+
+<ul>
+  <li>
+    <strong>Light:</strong>
+    Small bug fixes, CSS changes, simple components, quick scripts,
+    basic API routes, and small edits across a couple files.
+  </li>
+
+  <li>
+    <strong>Medium:</strong>
+    Normal website development, Discord bots, API integrations,
+    database work, authentication systems, and everyday debugging.
+  </li>
+
+  <li>
+    <strong>High:</strong>
+    Larger features, frontend + backend projects, multi-file debugging,
+    database migrations, complicated API logic, and refactoring existing code.
+  </li>
+
+  <li>
+    <strong>Extra High:</strong>
+    Large codebases, difficult bugs, architecture changes, major refactors,
+    complicated backend systems, and tasks where the model needs to inspect
+    multiple parts of your project before making changes.
+  </li>
+</ul>
+
+<blockquote>
+  <p>
+    <strong>Best use:</strong> If you don't know which coding model to choose,
+    start with Sol. For most development work, you probably don't need Astra.
+  </p>
+</blockquote>
+
+<h3>GPT-6 Luna</h3>
+
+<p>
+  GPT-6 Luna is for when you want something <strong>fast and efficient</strong>.
+  Don't sleep on smaller models — you do not need a huge reasoning model just
+  to change a button, rename a variable, or fix three lines of CSS.
+</p>
+
+<ul>
+  <li>
+    <strong>Light:</strong>
+    Tiny edits, renaming variables, fixing text, changing colors,
+    updating HTML, formatting code, and other quick tasks.
+  </li>
+
+  <li>
+    <strong>Medium:</strong>
+    Small components, simple scripts, basic website sections,
+    straightforward bugs, documentation, and repetitive coding work.
+  </li>
+
+  <li>
+    <strong>High:</strong>
+    Slightly more involved coding tasks, several related file changes,
+    basic API work, and bugs that need some investigation.
+  </li>
+
+  <li>
+    <strong>Extra High:</strong>
+    You <em>can</em> use Luna for harder work, but at this point you should
+    probably just switch to Sol. Luna's main advantage is getting smaller,
+    focused tasks done quickly.
+  </li>
+</ul>
+
+<blockquote>
+  <p>
+    <strong>Best use:</strong> Use Luna when the task is clear, focused,
+    and doesn't need a ton of deep reasoning. Save your heavier models for
+    problems that actually deserve them.
+  </p>
+</blockquote>
