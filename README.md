@@ -1,9 +1,17 @@
 <p align="center">
   <img
-    src="title.svg"
-    alt="You're Using ChatGPT / Codex Wrong..."
-    width="900"
-  >
+    src="chatgpt.jpg"
+    alt="ChatGPT"
+    width="110"
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img
+    src="codex.webp"
+    alt="Codex"
+    width="110"
+  />
 </p>
 </div>
 
