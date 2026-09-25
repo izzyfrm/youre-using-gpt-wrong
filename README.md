@@ -29,7 +29,10 @@
   speeds depending on what you're actually trying to do.
 </p>
 
-<h3>GPT-6 Astra</h3>
+<h3>
+  <img src="Astra.png" alt="Astra" width="32" height="32" align="absmiddle">
+  GPT-6 Astra
+</h3>
 
 <ul>
   <li>
@@ -73,7 +76,10 @@
   </p>
 </blockquote>
 
-<h3>GPT-6 Sol</h3>
+<h3>
+  <img src="Sol.png" alt="Sol" width="32" height="32" align="absmiddle">
+  GPT-6 Sol
+</h3>
 
 <p>
   GPT-6 Sol should probably be your <strong>main model</strong> for coding.
@@ -115,7 +121,10 @@
   </p>
 </blockquote>
 
-<h3>GPT-6 Luna</h3>
+<h3>
+  <img src="Luna.png" alt="Luna" width="32" height="32" align="absmiddle">
+  GPT-6 Luna
+</h3>
 
 <p>
   GPT-6 Luna is for when you want something <strong>fast and efficient</strong>.
