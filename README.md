@@ -1,17 +1,10 @@
-<div align="center">
+<p align="center">
   <img
-    src="banner (4).png"
-    alt="You're Using ChatGPT / Codex Wrong"
-    width="850"
-  />
-
-  <h1>You're Using ChatGPT/Codex wrong...</h1>
-
-  <p>
-    What's up guys and girls, I just wanted to let y'all know: if you're
-    having trouble using ChatGPT or Codex, you're probably using it wrong...
-    Here's how to fix that.
-  </p>
+    src="title.svg"
+    alt="You're Using ChatGPT / Codex Wrong..."
+    width="900"
+  >
+</p>
 </div>
 
 <hr>
