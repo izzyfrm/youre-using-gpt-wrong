@@ -1,30 +1,12 @@
-<div align="center">
-
-  <img
-    src="title.svg"
-    alt="You're Using ChatGPT / Codex Wrong..."
-    width="900"
-  />
-
-  <br><br>
-
-  <img
-    src="chatgpt.jpg"
-    alt="ChatGPT"
-    width="110"
-  />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img
-    src="codex.webp"
-    alt="Codex"
-    width="110"
-  />
-
-  <p>
-    What's up guys and girls, I just wanted to let y'all know: if you're
-    having trouble using ChatGPT or Codex, you're probably using it wrong...
-    Here's how to fix that.
-  </p>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="You're Using ChatGPT / Codex Wrong...">
+  <text
+    x="500"
+    y="60"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="46"
+    font-weight="700"
+    letter-spacing="-1.5"
+    fill="#2997ff"
+  >You're Using ChatGPT / Codex Wrong...</text>
+</svg>
