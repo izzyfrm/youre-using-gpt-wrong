@@ -1,19 +1,6 @@
-<p align="center">
-  <img
-    src="chatgpt.jpg"
-    alt="ChatGPT"
-    width="110"
-  />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img
-    src="codex.webp"
-    alt="Codex"
-    width="110"
-  />
-</p>
-</div>
+<p align="center"><img src="title.svg" alt="You're Using ChatGPT / Codex Wrong..." width="900"></p>
+<p align="center"><img src="chatgpt.jpg" alt="ChatGPT" width="96">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="codex.webp" alt="Codex" width="96"></p>
+<p align="center">What's up guys and girls, I just wanted to let y'all know: if you're having trouble using ChatGPT or Codex, you're probably using it wrong... Here's how to fix that.</p>
 
 <hr>
 
