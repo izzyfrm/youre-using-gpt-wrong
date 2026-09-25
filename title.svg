@@ -1,0 +1,19 @@
+<svg
+  width="1000"
+  height="90"
+  viewBox="0 0 1000 90"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <text
+    x="500"
+    y="58"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif"
+    font-size="46"
+    font-weight="700"
+    letter-spacing="-1.5"
+    fill="#2997ff"
+  >
+    You're Using ChatGPT / Codex Wrong...
+  </text>
+</svg>
