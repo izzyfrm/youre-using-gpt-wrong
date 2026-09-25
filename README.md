@@ -1,156 +1,61 @@
-<p align="center"><img src="title.svg" alt="You're Using ChatGPT / Codex Wrong..." width="900"></p>
-<p align="center"><img src="chatgpt.jpg" alt="ChatGPT" width="96">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="codex.webp" alt="Codex" width="96"></p>
-<p align="center">What's up guys and girls, I just wanted to let y'all know: if you're having trouble using ChatGPT or Codex, you're probably using it wrong... Here's how to fix that.</p>
+# You're Using ChatGPT / Codex Wrong!!
 
-<hr>
+What's up guys and girls. If you're struggling with ChatGPT or Codex, theres a good chance you're just using the wrong model or reasoning level for what you're trying to do.
 
-<h2>What AI Models to Use</h2>
+You do **not** need the strongest model on the highest setting for every single task 😭
 
-<p>
-  Start using <em>good</em> models. Putting GPT-6 Astra on Ultra ain't
-  automatically gonna give you the best output >> it's gonna take up
-  <strong>ALL</strong> your usage, trust me.
-</p>
+## What AI Models Should You Use?
 
-<p>
-  This is why you need to start using different models and different reasoning
-  speeds depending on what you're actually trying to do.
-</p>
+One of the biggest mistakes people make is choosing the strongest model, putting it on the highest reasoning level, and assuming it'll automatically give the best answer.
 
-<h3>
-  <img src="Astra.png" alt="Astra" width="32" height="32" align="absmiddle">
-  GPT-6 Astra
-</h3>
+Sometimes it will. But most of the time you're just wasting usage on something a faster model could've done perfectly fine.
 
-<ul>
-  <li>
-    <strong>Light:</strong>
-    Short questions, small website creation, simple code changes, or a small
-    3D model using Blender.
-  </li>
+The model and reasoning level you use should depend on the actual task.
 
-  <li>
-    <strong>Medium:</strong>
-    Average questions, normal programming tasks, website creation with more
-    files, debugging smaller problems, etc.
-  </li>
+### <img src="Astra.png" alt="Astra" width="28" height="28" align="absmiddle"> GPT-6 Astra
 
-  <li>
-    <strong>High:</strong>
-    Complex questions, full frontend websites, frontend + backend work,
-    larger debugging tasks, APIs, databases, and more complicated projects.
-  </li>
+Astra is what I'd use when something actually needs a lot of thinking. You probably don't need it for normal everyday coding.
 
-  <li>
-    <strong>Extra High:</strong>
-    The hardest questions of your life loll complex backend systems,
-    difficult debugging, advanced animations, architecture decisions,
-    large codebases, and problems that require a lot of reasoning.
-  </li>
+- **Light:** Short questions, small websites, simple code changes, or basic Blender work.
+- **Medium:** Normal programming, websites with multiple files, smaller bugs, and average questions.
+- **High:** Full frontend projects, frontend + backend work, APIs, databases, harder debugging, and more complicated systems.
+- **Extra High:** Large projects, advanced debugging, architecture decisions, complicated backends, animations, and big codebases.
+- **Ultra:** Bro lol this is useless unless you're building the greatest software known to man or debugging some insane problem, you probably do not need this.
 
-  <li>
-    <strong>Ultra:</strong>
-    Tbh... why even use this? Unless you're trying to build the best software
-    known to man or you're debugging the hardest code you've ever seen, you
-    probably don't need it lol.
-  </li>
-</ul>
+**Basically:** Astra is for harder stuff. Don't waste it on something like changing a button color.
 
-<blockquote>
-  <p>
-    <strong>The point:</strong> Higher reasoning does not automatically mean
-    better results. Use the amount of reasoning that actually matches the
-    difficulty of your task.
-  </p>
-</blockquote>
+### <img src="Sol.png" alt="Sol" width="28" height="28" align="absmiddle"> GPT-6 Sol
 
-<h3>
-  <img src="Sol.png" alt="Sol" width="32" height="32" align="absmiddle">
-  GPT-6 Sol
-</h3>
+Sol should probably be your **main coding model**.
 
-<p>
-  GPT-6 Sol should probably be your <strong>main model</strong> for coding.
-  It's a good balance between speed, reasoning, and actually getting work done
-  without burning through usage for no reason.
-</p>
+It's fast enough for normal work but still smart enough to handle pretty complicated projects without destroying your usage.
 
-<ul>
-  <li>
-    <strong>Light:</strong>
-    Small bug fixes, CSS changes, simple components, quick scripts,
-    basic API routes, and small edits across a couple files.
-  </li>
+- **Light:** Small bug fixes, CSS changes, components, scripts, simple API routes, and quick edits.
+- **Medium:** Websites, Discord bots, APIs, authentication, databases, and normal debugging.
+- **High:** Bigger features, frontend + backend projects, multi-file debugging, API logic, and refactoring.
+- **Extra High:** Large codebases, hard bugs, major refactors, backend systems, and stuff where the AI needs to understand a lot of your project at once.
 
-  <li>
-    <strong>Medium:</strong>
-    Normal website development, Discord bots, API integrations,
-    database work, authentication systems, and everyday debugging.
-  </li>
+**Basically:** If you're coding and don't know which model to pick, just use Sol.
 
-  <li>
-    <strong>High:</strong>
-    Larger features, frontend + backend projects, multi-file debugging,
-    database migrations, complicated API logic, and refactoring existing code.
-  </li>
+### <img src="Luna.png" alt="Luna" width="28" height="28" align="absmiddle"> GPT-6 Luna
 
-  <li>
-    <strong>Extra High:</strong>
-    Large codebases, difficult bugs, architecture changes, major refactors,
-    complicated backend systems, and tasks where the model needs to inspect
-    multiple parts of your project before making changes.
-  </li>
-</ul>
+Luna is what I'd use when I just want something done **fast**.
 
-<blockquote>
-  <p>
-    <strong>Best use:</strong> If you don't know which coding model to choose,
-    start with Sol. For most development work, you probably don't need Astra.
-  </p>
-</blockquote>
+Smaller models are actually really useful. You don't need some massive reasoning model just to rename a variable or fix a couple lines of CSS.
 
-<h3>
-  <img src="Luna.png" alt="Luna" width="32" height="32" align="absmiddle">
-  GPT-6 Luna
-</h3>
+- **Light:** Text changes, colors, HTML edits, renaming variables, formatting code, and tiny fixes.
+- **Medium:** Small components, simple scripts, website sections, documentation, and easy bugs.
+- **High:** Multiple related changes, basic API work, and bugs that need a little investigation.
+- **Extra High:** You can use it, but at this point I'd probably just switch to Sol lol.
 
-<p>
-  GPT-6 Luna is for when you want something <strong>fast and efficient</strong>.
-  Don't sleep on smaller models — you do not need a huge reasoning model just
-  to change a button, rename a variable, or fix three lines of CSS.
-</p>
+**Basically:** Use Luna for quick, focused tasks. Save Sol and Astra for the stuff that actually needs more thinking.
 
-<ul>
-  <li>
-    <strong>Light:</strong>
-    Tiny edits, renaming variables, fixing text, changing colors,
-    updating HTML, formatting code, and other quick tasks.
-  </li>
+## My Simple Rule
 
-  <li>
-    <strong>Medium:</strong>
-    Small components, simple scripts, basic website sections,
-    straightforward bugs, documentation, and repetitive coding work.
-  </li>
+This is pretty much how I choose:
 
-  <li>
-    <strong>High:</strong>
-    Slightly more involved coding tasks, several related file changes,
-    basic API work, and bugs that need some investigation.
-  </li>
+- **Luna:** quick changes and easy tasks.
+- **Sol:** normal coding and most projects.
+- **Astra:** difficult problems and big projects.
 
-  <li>
-    <strong>Extra High:</strong>
-    You <em>can</em> use Luna for harder work, but at this point you should
-    probably just switch to Sol. Luna's main advantage is getting smaller,
-    focused tasks done quickly.
-  </li>
-</ul>
-
-<blockquote>
-  <p>
-    <strong>Best use:</strong> Use Luna when the task is clear, focused,
-    and doesn't need a ton of deep reasoning. Save your heavier models for
-    problems that actually deserve them.
-  </p>
-</blockquote>
+Stop automatically choosing the strongest model and maxing out the reasoning. Match the model to the task and you'll usually get faster answers, better usage, and still get the result you wanted.
